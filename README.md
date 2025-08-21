@@ -1,6 +1,6 @@
 ## Olá, sou o Arthur👋
 
-- 🔭 Atualmente trabalhando em projetos pessoas
+- 🔭 Atualmente trabalhando em projetos pessoais
 - 🌱 Estou aprendendo JavaScript
 - 😄 Pronouns: ele/dele
 
