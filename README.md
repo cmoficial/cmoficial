@@ -1,22 +1,21 @@
-## Olá, sou o Arthur👋
+# 💫 About Me:
+## Olá, sou o Arthur👋<br><br>- 🔭 Atualmente trabalhando em projetos pessoais<br>- 🌱 Estou aprendendo JavaScript<br>- 😄 Pronouns: ele/dele<br>
 
-- 🔭 Atualmente trabalhando em projetos pessoais
-- 🌱 Estou aprendendo JavaScript
-- 😄 Pronouns: ele/dele
 
-<div>
-<a href="https://github.com/cmoficial">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmoficial&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cmoficial&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cmoficial&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoficial&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br> 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cmoficial&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-<div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=cmoficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
