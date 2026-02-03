@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 ## Olá, sou o Arthur👋<br><br>- 🔭 Atualmente trabalhando em projetos pessoais<br>- 🌱 Estou aprendendo JavaScript<br>- 😄 Pronouns: ele/dele<br>
 
 
